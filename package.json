@@ -1,0 +1,24 @@
+{
+  "name": "FEMmotivation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "motivation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heather1337/Motivation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heather1337/Motivation/issues"
+  },
+  "homepage": "https://github.com/Heather1337/Motivation#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
